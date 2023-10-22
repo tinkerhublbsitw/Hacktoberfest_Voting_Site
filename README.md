@@ -12,7 +12,7 @@ application.
 1. A login page where users can login or register as a new user. 
 2. The data entered in the login page is linked to an excel sheet using
    JavaScript.
-3. A home page having a candidate section which has the
+3. A home page containing a candidate section which has the
    images and info about the candidates from both the panels.
 4. The home page also has a vote section in which users can cast their votes.
 
